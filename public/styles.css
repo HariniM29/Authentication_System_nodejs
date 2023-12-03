@@ -1,0 +1,28 @@
+.center-div{
+    padding-top:10%;
+
+}
+.btn.btn-success{
+    padding:4em 2 em;
+}
+
+form {
+    padding: -2px 3em;
+}
+#login .title>span{
+    font-size:8em;
+}
+.h2, h2 {
+    font-size: 1rem;
+}
+#login .title>span {
+    font-size: 1em;
+}
+body{
+     background-image:url('/assets/img.jpg'); 
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+    
+}
